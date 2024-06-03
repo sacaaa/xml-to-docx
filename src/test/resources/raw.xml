@@ -1,0 +1,35 @@
+<root>
+	<customer_details>
+		<name>Sandor Szekelyhidi</name>
+		<birthday>1941-02-45T13:09:12.561Z</birthday>
+		<birthplace>Budapest</birthplace>
+		<customer_type>2</customer_type>
+		<address_data>
+			<postal_code>1767</postal_code>
+			<city>Debrecen</city>
+			<street_address>Apple street 31.</street_address>
+		</address_data>
+	</customer_details>
+	<document_data>
+		<data_section1>
+			<data>XY Tech</data>
+			<data>Iphone X</data>
+			<data>Huawei P30</data>
+			<data>Samsung Galaxy A60</data>
+		</data_section1>
+		<table>
+			<row-data>
+				<value1>Iphone X</value1>
+				<value2>Brand new phone.</value2>
+			</row-data>
+			<row-data>
+				<value1>Huawei P30</value1>
+				<value2>Brand new phone.</value2>
+			</row-data>
+			<row-data>
+				<value1>Samsung Galaxy A60</value1>
+				<value2>Brand new phone.</value2>
+			</row-data>
+		</table>
+	</document_data>
+</root>
